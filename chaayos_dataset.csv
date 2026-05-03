@@ -1,0 +1,501 @@
+Order_ID,Product,Quantity,Price,City,Date
+1,Cookies,3,162,Delhi,2025-06-13
+2,Cold Coffee,2,81,Bangalore,2025-06-29
+3,Samosa,3,83,Pune,2025-05-05
+4,Cookies,4,141,Delhi,2025-01-07
+5,Green Tea,1,144,Pune,2025-01-29
+6,Samosa,1,121,Mumbai,2025-05-19
+7,Samosa,4,88,Mumbai,2025-02-02
+8,Cookies,1,167,Mumbai,2025-05-14
+9,Ginger Tea,4,52,Bangalore,2025-04-21
+10,Green Tea,4,172,Delhi,2025-03-20
+11,Cookies,4,99,Mumbai,2025-06-09
+12,Green Tea,1,61,Mumbai,2025-06-28
+13,Green Tea,3,103,Delhi,2025-02-27
+14,Samosa,4,182,Mumbai,2025-01-26
+15,Cold Coffee,2,106,Pune,2025-06-23
+16,Green Tea,1,194,Delhi,2025-01-29
+17,Sandwich,4,161,Delhi,2025-01-04
+18,Samosa,4,96,Delhi,2025-04-09
+19,Ginger Tea,2,134,Pune,2025-05-21
+20,Cold Coffee,3,191,Delhi,2025-02-08
+21,Sandwich,3,115,Pune,2025-01-15
+22,Sandwich,3,124,Delhi,2025-04-29
+23,Ginger Tea,4,152,Bangalore,2025-01-29
+24,Cold Coffee,4,87,Mumbai,2025-06-06
+25,Samosa,4,99,Bangalore,2025-03-16
+26,Masala Chai,1,147,Mumbai,2025-04-26
+27,Cold Coffee,2,131,Pune,2025-02-01
+28,Ginger Tea,4,79,Bangalore,2025-05-10
+29,Sandwich,2,128,Delhi,2025-06-24
+30,Samosa,2,140,Mumbai,2025-03-25
+31,Cold Coffee,3,101,Mumbai,2025-01-22
+32,Masala Chai,1,128,Bangalore,2025-01-27
+33,Masala Chai,4,79,Pune,2025-03-22
+34,Green Tea,3,155,Bangalore,2025-05-06
+35,Green Tea,3,100,Pune,2025-04-02
+36,Cookies,4,130,Pune,2025-01-21
+37,Ginger Tea,2,182,Mumbai,2025-02-16
+38,Cold Coffee,3,78,Bangalore,2025-04-11
+39,Cold Coffee,2,181,Bangalore,2025-03-25
+40,Cookies,1,187,Pune,2025-01-06
+41,Sandwich,2,194,Bangalore,2025-05-27
+42,Sandwich,1,123,Delhi,2025-05-11
+43,Cookies,2,66,Delhi,2025-01-01
+44,Sandwich,3,133,Bangalore,2025-02-27
+45,Green Tea,3,118,Bangalore,2025-05-04
+46,Cold Coffee,1,83,Pune,2025-06-15
+47,Cookies,4,55,Delhi,2025-01-15
+48,Cold Coffee,1,102,Delhi,2025-06-11
+49,Masala Chai,1,175,Mumbai,2025-06-12
+50,Green Tea,2,92,Pune,2025-03-05
+51,Samosa,2,164,Mumbai,2025-01-25
+52,Green Tea,1,160,Delhi,2025-01-24
+53,Cookies,3,129,Pune,2025-01-12
+54,Samosa,2,144,Bangalore,2025-01-18
+55,Masala Chai,4,167,Pune,2025-01-15
+56,Cookies,2,193,Bangalore,2025-01-27
+57,Ginger Tea,2,57,Bangalore,2025-03-13
+58,Cold Coffee,4,181,Pune,2025-03-01
+59,Masala Chai,1,153,Bangalore,2025-06-23
+60,Cold Coffee,4,181,Mumbai,2025-05-25
+61,Sandwich,1,74,Delhi,2025-04-03
+62,Ginger Tea,1,145,Bangalore,2025-02-22
+63,Ginger Tea,1,142,Mumbai,2025-01-08
+64,Masala Chai,4,110,Bangalore,2025-03-20
+65,Ginger Tea,1,171,Delhi,2025-01-27
+66,Samosa,3,100,Mumbai,2025-06-23
+67,Ginger Tea,4,196,Delhi,2025-02-19
+68,Cold Coffee,3,70,Delhi,2025-05-11
+69,Cold Coffee,1,54,Mumbai,2025-04-03
+70,Cookies,2,141,Mumbai,2025-06-21
+71,Cold Coffee,1,110,Mumbai,2025-01-24
+72,Cookies,3,71,Pune,2025-03-01
+73,Cold Coffee,3,198,Mumbai,2025-05-02
+74,Samosa,4,119,Mumbai,2025-05-11
+75,Cookies,2,50,Mumbai,2025-05-28
+76,Green Tea,4,182,Mumbai,2025-02-15
+77,Sandwich,3,61,Bangalore,2025-01-15
+78,Masala Chai,1,139,Pune,2025-06-02
+79,Cold Coffee,2,95,Delhi,2025-01-17
+80,Ginger Tea,1,83,Mumbai,2025-05-06
+81,Cold Coffee,1,127,Bangalore,2025-03-25
+82,Ginger Tea,2,94,Bangalore,2025-01-09
+83,Sandwich,4,122,Bangalore,2025-06-15
+84,Sandwich,1,75,Delhi,2025-06-25
+85,Sandwich,3,96,Mumbai,2025-03-04
+86,Ginger Tea,1,170,Pune,2025-04-27
+87,Cold Coffee,2,105,Pune,2025-05-10
+88,Sandwich,2,143,Bangalore,2025-03-29
+89,Samosa,2,156,Delhi,2025-03-13
+90,Cookies,4,112,Delhi,2025-05-19
+91,Ginger Tea,1,97,Delhi,2025-03-05
+92,Ginger Tea,4,110,Pune,2025-03-13
+93,Cold Coffee,4,130,Bangalore,2025-01-21
+94,Ginger Tea,2,75,Mumbai,2025-01-18
+95,Ginger Tea,2,85,Pune,2025-03-05
+96,Sandwich,4,50,Bangalore,2025-03-23
+97,Cold Coffee,1,57,Bangalore,2025-04-20
+98,Sandwich,3,162,Mumbai,2025-04-05
+99,Cookies,4,148,Mumbai,2025-06-15
+100,Cookies,1,96,Mumbai,2025-02-01
+101,Sandwich,2,176,Delhi,2025-01-11
+102,Cookies,2,105,Mumbai,2025-02-14
+103,Cold Coffee,1,63,Bangalore,2025-02-02
+104,Masala Chai,3,77,Mumbai,2025-04-12
+105,Sandwich,2,127,Bangalore,2025-06-18
+106,Samosa,2,179,Pune,2025-05-16
+107,Samosa,2,158,Delhi,2025-01-11
+108,Ginger Tea,1,63,Pune,2025-06-28
+109,Cookies,4,105,Pune,2025-03-29
+110,Samosa,2,164,Bangalore,2025-02-10
+111,Ginger Tea,4,56,Pune,2025-05-25
+112,Masala Chai,3,52,Bangalore,2025-03-17
+113,Cold Coffee,2,160,Mumbai,2025-05-01
+114,Cold Coffee,2,156,Mumbai,2025-02-15
+115,Cold Coffee,3,67,Bangalore,2025-06-09
+116,Samosa,2,87,Mumbai,2025-03-21
+117,Masala Chai,4,164,Delhi,2025-02-23
+118,Samosa,1,64,Pune,2025-03-27
+119,Cookies,4,168,Delhi,2025-04-02
+120,Samosa,1,77,Pune,2025-05-28
+121,Masala Chai,1,88,Mumbai,2025-06-10
+122,Masala Chai,4,66,Delhi,2025-06-17
+123,Cookies,4,135,Mumbai,2025-06-09
+124,Masala Chai,4,175,Pune,2025-04-07
+125,Masala Chai,4,93,Bangalore,2025-01-02
+126,Cold Coffee,3,74,Bangalore,2025-02-02
+127,Cookies,2,194,Delhi,2025-06-07
+128,Green Tea,1,62,Mumbai,2025-06-10
+129,Green Tea,4,74,Mumbai,2025-03-18
+130,Masala Chai,4,117,Delhi,2025-04-26
+131,Green Tea,4,187,Bangalore,2025-06-03
+132,Green Tea,3,116,Pune,2025-05-30
+133,Masala Chai,4,158,Delhi,2025-04-13
+134,Green Tea,4,195,Pune,2025-06-15
+135,Samosa,4,160,Bangalore,2025-04-13
+136,Ginger Tea,2,160,Mumbai,2025-03-31
+137,Cookies,3,83,Bangalore,2025-06-23
+138,Ginger Tea,4,160,Delhi,2025-05-02
+139,Masala Chai,1,57,Mumbai,2025-05-23
+140,Cold Coffee,1,162,Delhi,2025-04-16
+141,Cookies,1,132,Delhi,2025-04-29
+142,Masala Chai,3,91,Bangalore,2025-06-21
+143,Cold Coffee,3,150,Delhi,2025-02-18
+144,Ginger Tea,1,55,Bangalore,2025-04-14
+145,Masala Chai,4,75,Mumbai,2025-03-02
+146,Cookies,3,113,Bangalore,2025-05-03
+147,Cookies,1,108,Mumbai,2025-05-14
+148,Sandwich,1,158,Bangalore,2025-01-09
+149,Samosa,4,170,Pune,2025-01-06
+150,Green Tea,2,82,Pune,2025-03-14
+151,Cold Coffee,3,199,Delhi,2025-04-13
+152,Sandwich,4,70,Bangalore,2025-06-09
+153,Green Tea,1,119,Bangalore,2025-02-10
+154,Green Tea,1,161,Mumbai,2025-04-24
+155,Masala Chai,4,53,Delhi,2025-01-08
+156,Green Tea,3,143,Bangalore,2025-03-13
+157,Samosa,2,124,Delhi,2025-06-27
+158,Cookies,2,111,Pune,2025-04-02
+159,Sandwich,1,143,Bangalore,2025-03-03
+160,Green Tea,3,144,Bangalore,2025-03-25
+161,Masala Chai,2,104,Delhi,2025-03-03
+162,Samosa,3,186,Bangalore,2025-04-21
+163,Ginger Tea,3,180,Delhi,2025-05-07
+164,Cookies,1,80,Bangalore,2025-01-07
+165,Cookies,2,89,Mumbai,2025-03-25
+166,Sandwich,4,85,Delhi,2025-05-12
+167,Cookies,1,55,Bangalore,2025-05-14
+168,Green Tea,2,115,Pune,2025-02-27
+169,Masala Chai,2,124,Bangalore,2025-01-22
+170,Cookies,2,53,Pune,2025-06-03
+171,Cookies,2,128,Pune,2025-05-07
+172,Ginger Tea,2,183,Mumbai,2025-01-03
+173,Ginger Tea,3,167,Delhi,2025-05-07
+174,Cold Coffee,1,162,Bangalore,2025-02-10
+175,Samosa,3,143,Mumbai,2025-04-16
+176,Green Tea,4,111,Bangalore,2025-01-14
+177,Cookies,2,128,Pune,2025-01-12
+178,Cookies,1,185,Delhi,2025-03-28
+179,Masala Chai,2,75,Bangalore,2025-01-12
+180,Cold Coffee,1,93,Bangalore,2025-05-21
+181,Samosa,3,182,Pune,2025-01-25
+182,Cold Coffee,1,119,Bangalore,2025-02-14
+183,Sandwich,4,167,Bangalore,2025-05-02
+184,Samosa,4,117,Pune,2025-05-27
+185,Cookies,1,68,Mumbai,2025-02-24
+186,Cookies,1,69,Pune,2025-04-10
+187,Samosa,1,162,Mumbai,2025-06-22
+188,Cookies,1,189,Delhi,2025-05-16
+189,Green Tea,4,96,Mumbai,2025-04-29
+190,Samosa,2,50,Mumbai,2025-02-22
+191,Cold Coffee,1,139,Delhi,2025-02-01
+192,Samosa,1,191,Mumbai,2025-02-20
+193,Cookies,4,113,Pune,2025-02-13
+194,Green Tea,4,87,Mumbai,2025-03-23
+195,Green Tea,3,86,Delhi,2025-05-26
+196,Sandwich,1,175,Pune,2025-05-30
+197,Cold Coffee,3,188,Delhi,2025-02-06
+198,Ginger Tea,4,149,Delhi,2025-04-06
+199,Ginger Tea,4,126,Bangalore,2025-02-25
+200,Samosa,2,52,Bangalore,2025-04-15
+201,Sandwich,1,183,Delhi,2025-02-28
+202,Masala Chai,3,59,Delhi,2025-05-11
+203,Samosa,4,54,Delhi,2025-06-05
+204,Sandwich,4,187,Bangalore,2025-02-04
+205,Cold Coffee,3,179,Bangalore,2025-04-03
+206,Cold Coffee,2,62,Mumbai,2025-04-07
+207,Cold Coffee,4,179,Mumbai,2025-05-15
+208,Cold Coffee,1,133,Delhi,2025-03-17
+209,Cold Coffee,4,114,Pune,2025-02-18
+210,Sandwich,1,112,Pune,2025-04-04
+211,Sandwich,3,150,Bangalore,2025-06-08
+212,Green Tea,1,122,Bangalore,2025-01-24
+213,Ginger Tea,3,66,Bangalore,2025-05-28
+214,Cookies,1,58,Delhi,2025-02-06
+215,Cold Coffee,3,192,Pune,2025-01-04
+216,Masala Chai,1,87,Mumbai,2025-04-18
+217,Cookies,2,143,Delhi,2025-05-06
+218,Sandwich,1,144,Mumbai,2025-01-20
+219,Masala Chai,1,98,Mumbai,2025-06-01
+220,Masala Chai,2,118,Delhi,2025-02-19
+221,Masala Chai,4,111,Mumbai,2025-06-26
+222,Green Tea,4,127,Pune,2025-06-28
+223,Sandwich,1,166,Mumbai,2025-04-06
+224,Masala Chai,2,169,Pune,2025-04-15
+225,Cold Coffee,1,186,Pune,2025-06-13
+226,Samosa,3,125,Pune,2025-04-27
+227,Masala Chai,3,84,Bangalore,2025-04-08
+228,Green Tea,1,50,Mumbai,2025-03-07
+229,Cookies,4,89,Delhi,2025-03-20
+230,Sandwich,4,113,Delhi,2025-06-11
+231,Green Tea,1,199,Mumbai,2025-06-13
+232,Masala Chai,1,109,Bangalore,2025-01-06
+233,Sandwich,3,113,Bangalore,2025-02-08
+234,Samosa,4,142,Pune,2025-06-19
+235,Masala Chai,1,121,Mumbai,2025-04-25
+236,Green Tea,3,60,Mumbai,2025-05-05
+237,Ginger Tea,4,154,Delhi,2025-01-12
+238,Cold Coffee,2,63,Mumbai,2025-05-11
+239,Cookies,3,109,Bangalore,2025-01-18
+240,Green Tea,4,79,Mumbai,2025-02-09
+241,Sandwich,4,84,Delhi,2025-01-21
+242,Masala Chai,3,54,Pune,2025-05-23
+243,Cold Coffee,2,132,Delhi,2025-04-09
+244,Masala Chai,3,172,Delhi,2025-01-26
+245,Sandwich,4,127,Pune,2025-01-08
+246,Masala Chai,1,111,Delhi,2025-04-10
+247,Ginger Tea,1,181,Delhi,2025-03-28
+248,Cold Coffee,3,138,Mumbai,2025-02-11
+249,Cold Coffee,4,91,Mumbai,2025-06-21
+250,Sandwich,1,138,Pune,2025-01-14
+251,Cookies,4,195,Mumbai,2025-03-19
+252,Ginger Tea,3,89,Mumbai,2025-01-02
+253,Green Tea,1,121,Delhi,2025-04-29
+254,Masala Chai,4,88,Bangalore,2025-02-06
+255,Samosa,1,153,Mumbai,2025-03-10
+256,Masala Chai,3,63,Bangalore,2025-06-15
+257,Masala Chai,4,81,Mumbai,2025-02-10
+258,Green Tea,1,174,Mumbai,2025-03-03
+259,Masala Chai,3,146,Pune,2025-03-01
+260,Ginger Tea,1,72,Pune,2025-05-05
+261,Ginger Tea,1,112,Pune,2025-04-21
+262,Cold Coffee,2,192,Bangalore,2025-01-14
+263,Sandwich,2,194,Delhi,2025-03-25
+264,Cookies,3,102,Mumbai,2025-05-10
+265,Samosa,2,153,Mumbai,2025-03-11
+266,Masala Chai,3,153,Mumbai,2025-05-25
+267,Masala Chai,2,88,Bangalore,2025-05-03
+268,Green Tea,1,183,Pune,2025-03-30
+269,Sandwich,3,116,Delhi,2025-01-28
+270,Ginger Tea,3,184,Bangalore,2025-03-07
+271,Samosa,1,91,Pune,2025-06-12
+272,Cold Coffee,3,64,Bangalore,2025-01-05
+273,Ginger Tea,3,160,Delhi,2025-06-17
+274,Sandwich,2,82,Pune,2025-06-13
+275,Cookies,3,87,Bangalore,2025-02-14
+276,Cold Coffee,4,146,Delhi,2025-05-31
+277,Cookies,1,82,Mumbai,2025-02-16
+278,Green Tea,2,135,Delhi,2025-01-31
+279,Green Tea,2,115,Mumbai,2025-05-19
+280,Masala Chai,4,59,Bangalore,2025-01-10
+281,Cookies,1,54,Pune,2025-04-28
+282,Sandwich,1,172,Pune,2025-01-14
+283,Samosa,2,123,Bangalore,2025-03-21
+284,Cold Coffee,3,146,Pune,2025-04-03
+285,Ginger Tea,2,167,Pune,2025-01-10
+286,Sandwich,1,87,Mumbai,2025-03-17
+287,Sandwich,4,190,Bangalore,2025-04-04
+288,Green Tea,2,96,Delhi,2025-04-15
+289,Cookies,1,158,Mumbai,2025-01-01
+290,Masala Chai,2,64,Bangalore,2025-05-13
+291,Masala Chai,3,185,Mumbai,2025-01-20
+292,Cold Coffee,2,54,Delhi,2025-01-08
+293,Green Tea,2,96,Delhi,2025-06-20
+294,Sandwich,1,117,Bangalore,2025-01-01
+295,Samosa,1,125,Delhi,2025-02-26
+296,Green Tea,1,179,Mumbai,2025-03-05
+297,Cold Coffee,2,144,Delhi,2025-04-28
+298,Cold Coffee,3,164,Mumbai,2025-01-28
+299,Green Tea,4,85,Mumbai,2025-05-01
+300,Cold Coffee,4,75,Delhi,2025-04-17
+301,Green Tea,1,92,Bangalore,2025-06-14
+302,Ginger Tea,1,76,Pune,2025-06-24
+303,Green Tea,2,118,Delhi,2025-06-14
+304,Cookies,4,197,Mumbai,2025-02-18
+305,Green Tea,1,60,Mumbai,2025-04-30
+306,Cold Coffee,3,123,Delhi,2025-02-13
+307,Cookies,3,153,Bangalore,2025-02-25
+308,Cold Coffee,1,87,Bangalore,2025-06-05
+309,Masala Chai,1,183,Mumbai,2025-04-21
+310,Masala Chai,4,72,Mumbai,2025-05-14
+311,Cookies,4,96,Bangalore,2025-04-18
+312,Ginger Tea,2,139,Pune,2025-05-28
+313,Masala Chai,4,95,Delhi,2025-04-24
+314,Green Tea,3,156,Mumbai,2025-03-19
+315,Cold Coffee,3,189,Mumbai,2025-05-10
+316,Masala Chai,1,190,Bangalore,2025-02-06
+317,Masala Chai,4,153,Delhi,2025-01-20
+318,Ginger Tea,2,160,Bangalore,2025-01-26
+319,Cookies,3,153,Delhi,2025-01-29
+320,Cookies,3,109,Delhi,2025-01-01
+321,Sandwich,2,149,Delhi,2025-04-29
+322,Ginger Tea,2,117,Mumbai,2025-02-04
+323,Green Tea,3,182,Pune,2025-02-28
+324,Cookies,3,169,Bangalore,2025-03-10
+325,Cold Coffee,2,86,Pune,2025-06-10
+326,Ginger Tea,3,121,Bangalore,2025-06-28
+327,Masala Chai,1,176,Delhi,2025-01-12
+328,Cold Coffee,1,155,Mumbai,2025-01-20
+329,Cold Coffee,2,141,Pune,2025-02-12
+330,Masala Chai,4,80,Mumbai,2025-05-06
+331,Ginger Tea,2,171,Bangalore,2025-02-19
+332,Masala Chai,2,186,Mumbai,2025-01-29
+333,Sandwich,4,100,Mumbai,2025-02-08
+334,Cold Coffee,4,78,Pune,2025-06-20
+335,Samosa,4,89,Delhi,2025-06-27
+336,Samosa,1,90,Mumbai,2025-05-31
+337,Green Tea,3,60,Delhi,2025-06-21
+338,Cookies,1,50,Bangalore,2025-02-07
+339,Masala Chai,3,95,Mumbai,2025-03-25
+340,Masala Chai,1,150,Pune,2025-05-31
+341,Green Tea,3,198,Bangalore,2025-05-08
+342,Green Tea,1,139,Bangalore,2025-05-06
+343,Green Tea,4,159,Pune,2025-02-14
+344,Cold Coffee,2,106,Mumbai,2025-02-21
+345,Sandwich,1,50,Mumbai,2025-03-21
+346,Masala Chai,3,112,Bangalore,2025-06-27
+347,Cold Coffee,4,104,Mumbai,2025-05-04
+348,Green Tea,1,164,Delhi,2025-04-29
+349,Masala Chai,1,192,Pune,2025-01-08
+350,Cold Coffee,4,198,Delhi,2025-03-26
+351,Sandwich,1,102,Mumbai,2025-05-09
+352,Cold Coffee,2,186,Bangalore,2025-01-08
+353,Sandwich,1,106,Pune,2025-06-06
+354,Green Tea,2,166,Mumbai,2025-04-06
+355,Sandwich,2,84,Mumbai,2025-04-12
+356,Masala Chai,4,112,Bangalore,2025-01-05
+357,Green Tea,1,74,Bangalore,2025-03-27
+358,Masala Chai,4,139,Delhi,2025-06-24
+359,Samosa,1,124,Pune,2025-02-03
+360,Ginger Tea,1,87,Pune,2025-02-24
+361,Sandwich,3,179,Bangalore,2025-04-29
+362,Ginger Tea,1,184,Delhi,2025-06-20
+363,Ginger Tea,4,140,Pune,2025-06-07
+364,Sandwich,2,66,Bangalore,2025-04-24
+365,Green Tea,1,177,Mumbai,2025-05-25
+366,Samosa,3,157,Pune,2025-01-26
+367,Masala Chai,4,74,Delhi,2025-05-16
+368,Cold Coffee,1,137,Delhi,2025-02-16
+369,Masala Chai,4,78,Delhi,2025-04-23
+370,Cold Coffee,3,112,Mumbai,2025-03-17
+371,Masala Chai,3,199,Pune,2025-03-13
+372,Sandwich,4,163,Pune,2025-03-30
+373,Samosa,1,98,Mumbai,2025-02-15
+374,Cold Coffee,2,130,Pune,2025-02-02
+375,Cookies,3,133,Mumbai,2025-01-01
+376,Green Tea,1,154,Mumbai,2025-05-27
+377,Masala Chai,1,197,Mumbai,2025-01-31
+378,Masala Chai,2,167,Delhi,2025-05-22
+379,Cold Coffee,3,135,Pune,2025-02-22
+380,Green Tea,3,112,Mumbai,2025-02-17
+381,Green Tea,1,153,Pune,2025-03-10
+382,Sandwich,1,98,Delhi,2025-04-15
+383,Cookies,2,120,Mumbai,2025-03-31
+384,Sandwich,2,50,Bangalore,2025-03-04
+385,Sandwich,3,190,Delhi,2025-03-14
+386,Sandwich,4,172,Bangalore,2025-06-10
+387,Sandwich,3,111,Pune,2025-06-18
+388,Sandwich,1,81,Pune,2025-03-30
+389,Samosa,3,78,Delhi,2025-06-25
+390,Green Tea,4,98,Pune,2025-01-13
+391,Sandwich,2,79,Bangalore,2025-03-14
+392,Green Tea,4,193,Mumbai,2025-03-18
+393,Green Tea,4,68,Mumbai,2025-06-08
+394,Ginger Tea,4,67,Mumbai,2025-03-09
+395,Samosa,2,50,Delhi,2025-04-08
+396,Sandwich,4,127,Pune,2025-05-05
+397,Masala Chai,4,164,Bangalore,2025-04-12
+398,Cold Coffee,4,162,Pune,2025-05-12
+399,Cookies,1,163,Pune,2025-04-12
+400,Masala Chai,4,112,Pune,2025-01-19
+401,Samosa,2,181,Mumbai,2025-03-23
+402,Cold Coffee,4,178,Bangalore,2025-05-21
+403,Samosa,4,57,Bangalore,2025-01-23
+404,Green Tea,2,104,Pune,2025-03-24
+405,Cold Coffee,4,152,Mumbai,2025-04-19
+406,Green Tea,2,180,Mumbai,2025-03-16
+407,Masala Chai,4,81,Bangalore,2025-05-09
+408,Masala Chai,2,59,Mumbai,2025-03-29
+409,Cold Coffee,4,159,Mumbai,2025-02-23
+410,Cold Coffee,4,173,Mumbai,2025-03-30
+411,Sandwich,1,136,Delhi,2025-05-23
+412,Samosa,1,104,Pune,2025-03-06
+413,Sandwich,4,81,Bangalore,2025-03-17
+414,Samosa,4,184,Bangalore,2025-05-23
+415,Sandwich,3,142,Delhi,2025-05-29
+416,Green Tea,2,57,Pune,2025-05-27
+417,Cold Coffee,3,114,Bangalore,2025-03-01
+418,Masala Chai,1,106,Mumbai,2025-04-03
+419,Samosa,1,116,Bangalore,2025-06-10
+420,Samosa,1,121,Mumbai,2025-02-18
+421,Masala Chai,1,103,Delhi,2025-02-04
+422,Sandwich,4,116,Mumbai,2025-06-21
+423,Samosa,1,100,Bangalore,2025-04-12
+424,Cookies,4,146,Bangalore,2025-01-11
+425,Green Tea,4,141,Bangalore,2025-04-09
+426,Cold Coffee,1,57,Delhi,2025-04-20
+427,Masala Chai,1,84,Delhi,2025-03-15
+428,Cold Coffee,2,145,Pune,2025-06-23
+429,Cookies,3,137,Bangalore,2025-01-09
+430,Samosa,1,127,Mumbai,2025-01-03
+431,Samosa,2,81,Delhi,2025-03-26
+432,Cookies,2,169,Bangalore,2025-01-26
+433,Masala Chai,3,95,Bangalore,2025-03-13
+434,Green Tea,4,193,Delhi,2025-02-17
+435,Ginger Tea,1,191,Pune,2025-06-05
+436,Masala Chai,3,104,Delhi,2025-04-27
+437,Ginger Tea,1,56,Delhi,2025-06-03
+438,Cookies,2,123,Mumbai,2025-06-02
+439,Sandwich,2,56,Mumbai,2025-01-12
+440,Ginger Tea,4,134,Pune,2025-05-13
+441,Green Tea,2,196,Bangalore,2025-02-17
+442,Sandwich,2,161,Delhi,2025-02-06
+443,Ginger Tea,3,174,Pune,2025-02-13
+444,Cookies,1,196,Mumbai,2025-01-15
+445,Sandwich,1,85,Delhi,2025-02-12
+446,Cookies,3,78,Bangalore,2025-06-25
+447,Ginger Tea,4,131,Mumbai,2025-03-28
+448,Cookies,1,51,Mumbai,2025-03-11
+449,Green Tea,2,178,Mumbai,2025-02-15
+450,Ginger Tea,1,96,Pune,2025-04-18
+451,Ginger Tea,2,197,Bangalore,2025-05-03
+452,Ginger Tea,4,60,Delhi,2025-06-20
+453,Masala Chai,3,179,Pune,2025-01-21
+454,Masala Chai,1,168,Pune,2025-05-31
+455,Masala Chai,3,189,Pune,2025-04-17
+456,Green Tea,1,69,Mumbai,2025-03-21
+457,Sandwich,2,54,Bangalore,2025-02-16
+458,Cookies,3,86,Pune,2025-04-27
+459,Samosa,1,186,Delhi,2025-05-04
+460,Ginger Tea,2,102,Bangalore,2025-05-23
+461,Cookies,3,148,Delhi,2025-01-25
+462,Ginger Tea,3,135,Bangalore,2025-02-05
+463,Green Tea,1,157,Delhi,2025-02-20
+464,Ginger Tea,1,73,Mumbai,2025-01-15
+465,Masala Chai,1,130,Pune,2025-03-09
+466,Samosa,2,169,Delhi,2025-01-21
+467,Cold Coffee,1,108,Bangalore,2025-05-21
+468,Ginger Tea,3,177,Pune,2025-01-19
+469,Cookies,3,163,Pune,2025-02-03
+470,Masala Chai,1,164,Bangalore,2025-03-19
+471,Cold Coffee,1,63,Delhi,2025-05-05
+472,Samosa,4,58,Mumbai,2025-04-27
+473,Cold Coffee,3,89,Mumbai,2025-02-21
+474,Masala Chai,2,74,Delhi,2025-01-27
+475,Sandwich,4,152,Pune,2025-06-06
+476,Sandwich,1,71,Pune,2025-06-05
+477,Cold Coffee,1,53,Pune,2025-02-04
+478,Green Tea,3,78,Pune,2025-05-16
+479,Cookies,1,158,Delhi,2025-05-24
+480,Cookies,2,147,Pune,2025-04-16
+481,Cold Coffee,3,86,Bangalore,2025-06-13
+482,Ginger Tea,1,124,Pune,2025-06-07
+483,Ginger Tea,3,119,Mumbai,2025-05-26
+484,Cookies,1,195,Pune,2025-01-02
+485,Cookies,1,177,Delhi,2025-06-26
+486,Sandwich,1,134,Mumbai,2025-03-18
+487,Green Tea,2,91,Delhi,2025-05-12
+488,Masala Chai,2,149,Delhi,2025-03-31
+489,Ginger Tea,3,90,Mumbai,2025-03-30
+490,Cookies,1,83,Delhi,2025-04-04
+491,Sandwich,1,66,Delhi,2025-01-07
+492,Samosa,2,171,Pune,2025-04-05
+493,Sandwich,1,125,Bangalore,2025-04-18
+494,Ginger Tea,2,136,Delhi,2025-03-15
+495,Ginger Tea,1,166,Delhi,2025-02-08
+496,Sandwich,3,155,Delhi,2025-05-21
+497,Masala Chai,1,135,Pune,2025-06-08
+498,Cold Coffee,1,76,Bangalore,2025-03-12
+499,Ginger Tea,4,106,Mumbai,2025-02-25
+500,Sandwich,2,80,Pune,2025-06-19
